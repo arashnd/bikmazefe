@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikmazefe)](https://github.com/bikmazefe/github-readme-stats)
-[![bikmazefe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikmazefe&show_icons=true&theme=synthwave)](https://github.com/bikmazefe/github-readme-stats)
+[![bikmazefe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikmazefe&show_icons=true&theme=gradient)](https://github.com/bikmazefe/github-readme-stats)
 
 <!--
 **bikmazefe/bikmazefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
