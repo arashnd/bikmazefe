@@ -2,8 +2,10 @@
 
 # I'm a Full Stack Developer and a Musician...
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikmazefe&layout=compact)](https://github.com/bikmazefe/github-readme-stats)
+
 
 
 <!--
