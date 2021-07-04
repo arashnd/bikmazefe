@@ -4,7 +4,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikmazefe&layout=compact)](https://github.com/bikmazefe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikmazefe&show_icons=true&hide_border=true)](https://github.com/bikmazefe/github-readme-stats)
 
 
 
