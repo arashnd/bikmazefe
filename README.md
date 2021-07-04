@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Efe 🕺
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikmazefe)](https://github.com/bikmazefe/github-readme-stats)
-[![bikmazefe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikmazefe&show_icons=true&theme=gradient)](https://github.com/bikmazefe/github-readme-stats)
+## I'm a Full Stack Developer and a musician...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikmazefe&layout=compact)](https://github.com/bikmazefe/github-readme-stats)
+
 
 <!--
 **bikmazefe/bikmazefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
